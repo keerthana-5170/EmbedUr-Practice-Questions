@@ -25,3 +25,7 @@ int main()
     }
    
 }
+/*sample i/o
+  Enter a number: 10
+  msb=8
+  */
