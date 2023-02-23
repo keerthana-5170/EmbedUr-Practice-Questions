@@ -4,7 +4,7 @@
 int main()
 {
     long int count=0,num,rem,m,arr[10];
-    f("Enter a number:");
+    printf("Enter a number:");
     scanf("%ld",&num);
     m=num;    
     while(m>0)
