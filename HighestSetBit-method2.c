@@ -21,3 +21,7 @@ int main()
     printf("msb =%d",1<<count);
    
 }
+/*sample i/o
+  Enter a number: 10
+  msb=8
+  */
