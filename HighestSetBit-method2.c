@@ -3,10 +3,10 @@
 
 int main()
 {
-    long int count=0,num,rem,m,arr[10];
+    long int count=0,m;
     printf("Enter a number:");
-    scanf("%ld",&num);
-    if(num==0)
+    scanf("%ld",&m);
+    if(m==0)
     {
         return 0;
     }
